@@ -9,6 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Getter
 @Setter
 @AllArgsConstructor
+@Data
 @Document
 public class Employee {
 
